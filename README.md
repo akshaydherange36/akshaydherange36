@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaydherange36
 - 👀 I’m interested in ...Developemnt
-- 🌱 I’m currently learning ...Computer Engineering
+- 🌱 I've completed ...Computer Engineering
 - 📫 How to reach me ...Email:akshaydherange36@gmail.com
 
 <!---
