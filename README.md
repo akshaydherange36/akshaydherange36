@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @akshaydherange36
-- 👀 I’m interested in ...Developemnt
-- 🌱 I've completed ...Computer Engineering
-- 📫 How to reach me ...Email:akshaydherange36@gmail.com
+- 👋 Hi, I’m Akshay Dadabhau Dherange
+- 👀 I’m interested in ... Developemnt
+- 🌱 I've completed ... Computer Engineering
+- 📫 How to reach me ... Email: akshaydherange36@gmail.com
+-                         Mob: +91-8530262770
 
 <!---
 akshaydherange36/akshaydherange36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
