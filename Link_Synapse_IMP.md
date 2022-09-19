@@ -1,4 +1,6 @@
-:IMP DOCS SYNPASE:
+<p align="center">
+|IMP DOCS SYNPASE|
+</p>
 ---
 
 **https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog**
