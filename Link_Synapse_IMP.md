@@ -18,7 +18,7 @@ IMP DOCS SYNPASE
 
 **Monitoring Synapse serverless SQL open connections** - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/monitoring-synapse-serverless-sql-open-connections/ba-p/3298577
 
-Best Regards,
+<p>Best Regards,
 
 Akshay D. Dherange
 
@@ -36,4 +36,4 @@ Reporting Manager: Naveed Aasam v-maasam@microsoft.com
 
 Team Distro:  asaoof@microsoft.com
 
-Azure Service Dashboard | Create an Azure Case | Azure Synapse Analytics Blog
+Azure Service Dashboard | Create an Azure Case | Azure Synapse Analytics Blog</p>
