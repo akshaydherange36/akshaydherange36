@@ -24,7 +24,9 @@ IMP DOCS SYNPASE
 
 
 <footer>Best Regards,
+  
 Akshay D. Dherange
+  
 Azure Synapse Analytics Support Engineer | v-adherange@microsoft.com
 
 
