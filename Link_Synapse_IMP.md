@@ -1,5 +1,5 @@
 <p align="center">
-|IMP DOCS SYNPASE|
+_**IMP DOCS SYNPASE**_
 </p>
 ---
 
