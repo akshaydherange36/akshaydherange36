@@ -18,3 +18,22 @@ IMP DOCS SYNPASE
 
 **Monitoring Synapse serverless SQL open connections** - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/monitoring-synapse-serverless-sql-open-connections/ba-p/3298577
 
+Best Regards,
+
+Akshay D. Dherange
+
+Azure Synapse Analytics Support Engineer | v-adherange@microsoft.com
+
+Working hrs: 12:00 PM –  9:30 PM IST (GMT +5:30) (Mon-Fri)
+
+Alternate contacts if I am not available:
+
+Backup Engineer : 
+
+Gopal Raju Chenda  v-gopche@microsoft.com  | Karthik Burada v-kburada@microsoft.com  | Swati Kumari  v-swakumari@microsoft.com
+
+Reporting Manager: Naveed Aasam v-maasam@microsoft.com
+
+Team Distro:  asaoof@microsoft.com
+
+Azure Service Dashboard | Create an Azure Case | Azure Synapse Analytics Blog
