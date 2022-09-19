@@ -23,7 +23,7 @@ IMP DOCS SYNPASE
 
 
 ---
-<footer>Best Regards,
+Best Regards,
 Akshay Dherange| v-adherange@microsoft.com
 
 
