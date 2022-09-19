@@ -6,5 +6,4 @@
 
 **How to provide statement id in the serverless SQL pool support ticket?** - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/how-to-provide-statement-id-in-the-serverless-sql-pool-support/ba-p/3532926
 
-**Retrieve Azure Synapse role-based access control (RBAC) Information using PowerShell**
- - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/retrieve-azure-synapse-role-based-access-control-rbac/ba-p/3466419
+**Retrieve Azure Synapse role-based access control (RBAC) Information using PowerShell** - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/retrieve-azure-synapse-role-based-access-control-rbac/ba-p/3466419
