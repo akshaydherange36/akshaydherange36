@@ -1,6 +1,6 @@
-<p align="center">
-_IMP DOCS SYNPASE_
-</p>
+<p align="center",><b>
+IMP DOCS SYNPASE
+</b></p>
 ---
 
 **https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog**
