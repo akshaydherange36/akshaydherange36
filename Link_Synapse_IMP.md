@@ -18,6 +18,7 @@ IMP DOCS SYNPASE
 
 **Monitoring Synapse serverless SQL open connections** - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/monitoring-synapse-serverless-sql-open-connections/ba-p/3298577
 
+**Reading Delta Lake in Dedicated SQL Pool** - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/reading-delta-lake-in-dedicated-sql-pool/ba-p/3571053
 
 
 
