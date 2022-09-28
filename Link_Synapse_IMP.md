@@ -7,6 +7,7 @@ IMP DOCS SYNPASE
 **https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog**
 **https://supportability.visualstudio.com/AzureSynapseAnalytics/_wiki/wikis/AzureSynapseAnalytics/585023/Resource-provisioning-Failed**
 ---
+**MERGE T-SQL for Dedicated SQL pools is now GA!** - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/merge-t-sql-for-dedicated-sql-pools-is-now-ga/ba-p/3634331 
 
 **Understand Synapse dedicated SQL pool (formerly SQL DW) and Serverless SQL pool** - {{\field{\*\fldinst{HYPERLINK https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/understand-synapse-dedicated-sql-pool-formerly-sql-dw-and/ba-p/3594628 }}
 
