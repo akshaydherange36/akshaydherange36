@@ -21,7 +21,9 @@ IMP DOCS SYNPASE
 
 **Reading Delta Lake in Dedicated SQL Pool** - https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/reading-delta-lake-in-dedicated-sql-pool/ba-p/3571053
 
+**zure VNET vs Azure IR inside of Pipelines** - https://techcommunity.microsoft.com/t5/azure-data-factory-blog/azure-vnet-vs-azure-ir-inside-of-pipelines/ba-p/3606758
 
+**Data Virtualization with PolyBase for SQL** - https://cloudblogs.microsoft.com/sqlserver/2022/10/05/data-virtualization-with-polybase-for-sql-server-2022/
 
 
 ---
