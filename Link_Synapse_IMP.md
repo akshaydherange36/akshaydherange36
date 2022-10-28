@@ -25,6 +25,11 @@ IMP DOCS SYNPASE
 
 **Data Virtualization with PolyBase for SQL** - https://cloudblogs.microsoft.com/sqlserver/2022/10/05/data-virtualization-with-polybase-for-sql-server-2022/
 
+**How to restore a dropped Dedicated SQL Pool using powershell** - https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-restore-a-dropped-dedicated-sql-pool-using-powershell/ba-p/3664873
+
+**Understand Synapse Spark basic configuration** - https://techcommunity.microsoft.com/t5/fasttrack-for-azure/understand-synapse-spark-basic-configuration/ba-p/3660054
+
+**SQL SERVER INTERVIEW QUESTIONS**  - https://www.linkedin.com/posts/himanshukumarmahuri_sql-server-interview-questions-ugcPost-6991634055133835265-L5O4?utm_source=share&utm_medium=member_desktop
 
 ---
 Best Regards, <br>
